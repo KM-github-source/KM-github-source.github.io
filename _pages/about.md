@@ -15,7 +15,7 @@ Hello! I am currently a master’s student at [Tongji University](https://en.ton
 
 Research Interests
 ======
-My recent research focuses primarily on **Open-Vocabulary Object Detection (OVD)**, encompassing both **2D OVD** and **3D OVD**. In the 2D domain, my collaborators and I utilized a diffusion model to generate sample images for novel categories. We proposed a keypoint localization module based on cross-attention maps to obtain bounding box labels for these sample images, subsequently training a set of prototypes using these box labels. In the 3D domain, we developed an open-set instance segmentation model based on multi-view sampling and distilled an MLP layer to map 3D features into CLIP’s shared embedding space. This enables direct instance classification by measuring the similarity between 3D features and textual features.
+My recent research focuses primarily on **Open-Vocabulary Object Detection (OVD)**, encompassing both **2D OVD** and **3D Open-Vocabulary Instance Segmentation**. In the 2D domain, my collaborators and I utilized a diffusion model to generate sample images for novel categories. We proposed a keypoint localization module based on cross-attention maps to obtain bounding box labels for these sample images, subsequently training a set of prototypes using these box labels. In the 3D domain, we developed an open-set instance segmentation model based on multi-view sampling and distilled an MLP layer to map 3D features into CLIP’s shared embedding space. This enables direct instance classification by measuring the similarity between 3D features and textual features.
 
 Moving forward, I plan to delve deeper into the field of **multimodal content understanding**.
 
