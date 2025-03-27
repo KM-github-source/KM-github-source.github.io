@@ -70,31 +70,31 @@ Achievements
 <div class="achievements" style="text-align: left;">
   <div class="achievement-item">
     <div class="custom-checkbox">
-<!--       <input type="checkbox" id="achievement1" checked> -->
+      <input type="checkbox" id="achievement1" checked>
       <label for="achievement1">Jianxing Scholarship Third Prize 2024</label>
     </div>
   </div>
   <div class="achievement-item">
     <div class="custom-checkbox">
-<!--       <input type="checkbox" id="achievement2" checked> -->
+      <input type="checkbox" id="achievement2" checked>
       <label for="achievement2">Ningbo Future Star Scholarship First Prize 2024</label>
     </div>
   </div>
   <div class="achievement-item">
     <div class="custom-checkbox">
-<!--       <input type="checkbox" id="achievement3" checked> -->
+      <input type="checkbox" id="achievement3" checked>
       <label for="achievement3">Tongji University Outstanding Student Scholarship Second Prize 2022&2020</label>
     </div>
   </div>
   <div class="achievement-item">
     <div class="custom-checkbox">
-<!--       <input type="checkbox" id="achievement4" checked> -->
+      <input type="checkbox" id="achievement4" checked>
       <label for="achievement4">National Invention Patent: A Target Detection Method and System Based on an Improved DETR Algorithm 2024</label>
     </div>
   </div>
   <div class="achievement-item">
     <div class="custom-checkbox">
-<!--       <input type="checkbox" id="achievement5" checked> -->
+      <input type="checkbox" id="achievement5" checked>
       <label for="achievement5">CCF CSP Computer Software Proficiency Certification Exam, ranked in the top 5% 2021</label>
     </div>
   </div>
