@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently a master’s student at Tongji University. This is my personal homepage, where I will share some of my research projects and interesting side projects I’ve undertaken. I warmly invite you to reach out and engage in discussions with me!
+Hello! I am currently a master’s student at [Tongji University](https://en.tongji.edu.cn/p/). This is my personal homepage, where I will share some of my research projects and interesting side projects I’ve undertaken. I warmly invite you to reach out and engage in discussions with me!
+
+<a href="/files/cv.pdf" class="cv-button" target="_blank"> 
+  Here is my CV 📄
+</a>
 
 Research Interests
 ======
-My recent research focuses primarily on open-set object detection, encompassing both 2D OVD(Open-Vocabulary Object Detection) and 3D OVD. In the 2D domain, my collaborators and I utilized a diffusion model to generate sample images for novel categories. We proposed a keypoint localization module based on cross-attention maps to obtain bounding box labels for these sample images, subsequently training a set of prototypes using these box labels. In the 3D domain, we developed an open-set instance segmentation model based on multi-view sampling and distilled an MLP layer to map 3D features into CLIP’s shared embedding space. This enables direct instance classification by measuring the similarity between 3D features and textual features.
+My recent research focuses primarily on **Open-Vocabulary Object Detection (OVD)**, encompassing both **2D OVD** and **3D OVD**. In the 2D domain, my collaborators and I utilized a diffusion model to generate sample images for novel categories. We proposed a keypoint localization module based on cross-attention maps to obtain bounding box labels for these sample images, subsequently training a set of prototypes using these box labels. In the 3D domain, we developed an open-set instance segmentation model based on multi-view sampling and distilled an MLP layer to map 3D features into CLIP’s shared embedding space. This enables direct instance classification by measuring the similarity between 3D features and textual features.
 
-Moving forward, I plan to delve deeper into the field of multimodal content understanding.
+Moving forward, I plan to delve deeper into the field of **multimodal content understanding**.
 
 Current Research
 ======
