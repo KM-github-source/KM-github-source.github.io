@@ -43,6 +43,28 @@ Current Research
    </div>
 </div>
 
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+   <div style="flex: 0 0 45%; margin-right: 20px;">
+       <div class="image-hover-container">
+           <!-- <img src="../images/ProDet_Homepage.png" style="width: 100%; height: auto;"/> -->
+          <a href="../files/ProDet.pdf" target="_blank">
+              <img src="../images/ProDet_Homepage.png" alt="ProDet Homepage" style="width: 100%; height: auto;"/>
+          </a>
+       </div>
+   </div>
+   <div style="flex: 0 0 50%;">
+       <h3 style="margin-top: 0;"><img src="..\images\favicon-192x192.png" style="height: 1.5em; width: 1.5em; vertical-align: -0.3em; margin-right: 2px;"> ProDet:LearningPrototype-BasedRegion-WordAlignmentfor
+ Open-VocabularyObjectDetection</h3>
+       <p>
+           <a href="../files/ProDet.pdf">[PPT]</a>
+       </p>
+       <p>
+           This paper has been submitted to ICCV 2025.
+       </p>
+   </div>
+</div>
+
 Achievements
 ======
 <div class="achievements" style="text-align: left;">
