@@ -77,3 +77,37 @@ Achievements
     </div>
   </div>
 </div>
+
+
+<div class="achievements" style="text-align: left;">
+  <div class="achievement-item">
+    <div class="custom-checkbox">
+      <input type="checkbox" id="achievement1" checked>
+      <label for="achievement1">National Scholarship (Top 0.2%) / TianXiang Scholarship (2 slots one college)</label>
+    </div>
+  </div>
+  <div class="achievement-item">
+    <div class="custom-checkbox">
+      <input type="checkbox" id="achievement2" checked>
+      <label for="achievement2">Interdisciplinary Contest In Modeling hosted by COMAP Finalist Prize 2023</label>
+    </div>
+  </div>
+  <div class="achievement-item">
+    <div class="custom-checkbox">
+      <input type="checkbox" id="achievement3" checked>
+      <label for="achievement3">National Undergraduate Mathematics/Physics Competition: Third Prize/Second Prize 2022</label>
+    </div>
+  </div>
+  <div class="achievement-item">
+    <div class="custom-checkbox">
+      <input type="checkbox" id="achievement4" checked>
+      <label for="achievement4">International Concrete Dragon Boat Competition 2nd Prize 2022</label>
+    </div>
+  </div>
+  <div class="achievement-item">
+    <div class="custom-checkbox">
+      <input type="checkbox" id="achievement5" checked>
+      <label for="achievement5">ASCE Concrete Canoe Competition (2nd Place in California Section) 2024</label>
+    </div>
+  </div>
+</div>
